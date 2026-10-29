@@ -25,4 +25,4 @@ The goal was to describe the Washington State EV fleet (types, makes, model year
 Loaded and profiled the data in Google Colab with pandas, matplotlib and seaborn.
 Cleaned it: standard names and text, duplicate check, impossible values removed, 1,299 range outliers treated.
 Explored it with single-variable, trend, geographic and group-comparison charts, each labelled with counts and caveats.
-Collected the findings below from the charts.
+Collected the findings from the charts.
