@@ -1,5 +1,7 @@
 # Electric-Vehicle-EV-Market-Analysis
 Electric Vehicle (EV) Market Analysis Adoption trends, consumer preferences and fleet profile of Washington State Final project.
+
+
 This project profiles the electric vehicle fleet recorded by the Washington State Department of Licensing. It asks which vehicle types, makes and models dominate, how the fleet has grown by model year, how electric range varies, and where the vehicles are concentrated. The aim is to turn raw records into clear evidence for clean-mobility and charging-infrastructure planning.
 
 # EV Market Analysis, Washington State: 
